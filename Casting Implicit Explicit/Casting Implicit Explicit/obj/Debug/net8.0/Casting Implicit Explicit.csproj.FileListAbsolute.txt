@@ -12,3 +12,18 @@ C:\Users\akifst\Desktop\pb305\Casting Implicit Explicit\Casting Implicit Explici
 C:\Users\akifst\Desktop\pb305\Casting Implicit Explicit\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.pdb
 C:\Users\akifst\Desktop\pb305\Casting Implicit Explicit\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.genruntimeconfig.cache
 C:\Users\akifst\Desktop\pb305\Casting Implicit Explicit\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\ref\Casting Implicit Explicit.dll
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\bin\Debug\net8.0\Casting Implicit Explicit.exe
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\bin\Debug\net8.0\Casting Implicit Explicit.deps.json
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\bin\Debug\net8.0\Casting Implicit Explicit.runtimeconfig.json
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\bin\Debug\net8.0\Casting Implicit Explicit.dll
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\bin\Debug\net8.0\Casting Implicit Explicit.pdb
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.AssemblyInfo.cs
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.sourcelink.json
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.dll
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\refint\Casting Implicit Explicit.dll
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.pdb
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\Casting Implicit Explicit.genruntimeconfig.cache
+C:\Users\HP\Desktop\Casting-Implicit-Explicit-Operator-Exception\Casting Implicit Explicit\Casting Implicit Explicit\obj\Debug\net8.0\ref\Casting Implicit Explicit.dll

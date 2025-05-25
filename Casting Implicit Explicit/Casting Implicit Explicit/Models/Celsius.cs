@@ -1,5 +1,4 @@
-﻿
-namespace Casting_Implicit_Explicit
+﻿namespace Casting_Implicit_Explicit.Models
 {
     public class Celsius
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Casting Implicit Explicit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c1dda0f078fde8c7f3a61d99905bb934e5d4a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Casting Implicit Explicit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Casting Implicit Explicit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
